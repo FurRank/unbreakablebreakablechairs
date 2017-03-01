@@ -1,0 +1,77 @@
+.coolstuff{
+  font-style: italic;
+  color:red;
+  text-align: center;
+}
+
+#thestart{
+  color: #9270B3;
+  font-size: 200%;
+  text-align: center;
+}
+
+.intro{
+  border: 2px outset blue;
+  font-size: 300%;
+  text-align: center;
+}
+
+#chairs{
+  font-style: italic;
+  color:blue;
+  font-size: 250%;
+}
+
+#Changesize {
+  font-family: "Oswald", sans-serif;
+  color: green;
+  font-size: 220%;
+  text-decoration: underline;
+}
+
+#Games {
+  color: #FFFF99;
+}
+
+
+#photo1 {
+  border: 3px ridge #8AC001;
+}
+
+#photo2 {
+  background-position: center; 
+  border: 3px dotted red;
+}
+
+#photo3 {
+  float:right;
+  border: 4px inset lightblue;
+}
+
+#photo4 {
+  border: 3px inset red;
+}
+
+#link1 {
+  font-size: 150%;
+}
+
+.title1 {
+  font-family:"Oswald", sans-serif;
+  color: gray;
+  text-decoration: underline;
+}
+
+body {
+  background-color: silver; 
+}
+
+ul{
+  color:red;
+  font-size: 200%;
+}
+
+.cool{
+  color:green;
+  font-size: 250%;
+}
